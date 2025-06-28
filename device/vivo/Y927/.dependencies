@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "device/vivo/Y927",
+    "target_path": "kernel/vivo/msm8916",
+    "revision": "twrp-kernel"
+  }
+]
